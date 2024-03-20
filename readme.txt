@@ -1,4 +1,4 @@
-author: rajendra pacha
+author: rajendra pacha chowdary
 
 Welcome to my git repository
 
