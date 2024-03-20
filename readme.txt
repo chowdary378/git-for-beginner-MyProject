@@ -1,4 +1,4 @@
-author: rajendra
+author: rajendra chowdary
 
 Welcome to my git repository
 
